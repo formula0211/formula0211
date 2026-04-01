@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<b>My name</b> is Park Byeong Ik, <br><br>
+<b>I'm Korean student</b> of<b> YONSEI</b> University.<br><br>
+Majoring in <b>S O F T W A R E</b> <br><br>
+my STACK: <br>
+- C <br>
+- Javascript <br>
+- HTML <br>
+- CSS <br>
 <!--
 **formula0211/formula0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
